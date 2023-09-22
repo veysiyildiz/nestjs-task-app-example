@@ -26,11 +26,7 @@
 
 - [NestJS](https://nestjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [SQLite](https://www.sqlite.org/index.html)
 - [TypeORM](https://typeorm.io/)
-- [Nano-ID](https://www.npmjs.com/package/nanoid)
-- [Class-validator](https://www.npmjs.com/package/class-validator)
-- [Class-transformer](https://www.npmjs.com/package/class-transformer)
 
 ## Description
 
