@@ -1,7 +1,7 @@
 {
-  "name": "nestjs-task-management",
+  "name": "nestjs-task-app-example",
   "version": "0.0.1",
-  "description": "",
+  "description": "NestJS Task App Example",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
